@@ -5,6 +5,4 @@
 - [kubernetes](https://kubernetes.io/docs/tasks/tools/)
 - [Terrafrom](https://developer.hashicorp.com/terraform/downloads)
 
-- [Presentacion](https://docs.google.com/presentation/d/1Z9OHRUsV0PNytIuS4BwRjWw3LuvfRjUhY8efj9L8r2M/edit?usp=sharing)
-
 - [meetup](https://www.meetup.com/es-ES/meetup-golang-venezuela/)
